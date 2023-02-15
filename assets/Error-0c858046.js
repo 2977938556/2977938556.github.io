@@ -1,1 +1,0 @@
-import{_ as o,o as _,c as d,p as s,b as t,a as c}from"./index-5ad76582.js";const r={},a=e=>(s("data-v-de05d4d0"),e=e(),t(),e),n={id:"Error"},p=a(()=>c("h1",null,"404 页面怕丢啦",-1)),i=[p];function l(e,h){return _(),d("div",n,i)}const f=o(r,[["render",l],["__scopeId","data-v-de05d4d0"]]);export{f as default};
